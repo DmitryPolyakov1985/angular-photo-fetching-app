@@ -1,0 +1,12 @@
+img {
+  width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  margin-bottom: 10px;
+  background-color: brown;
+  color: #fff;
+  border-radius: 5px;
+}
